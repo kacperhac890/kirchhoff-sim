@@ -5,6 +5,8 @@ An educational 3D ERP training game for a simulated automotive structural-parts 
 SAP-inspired workflows — MM, EWM, PP, QM, PM, SD, TM — run on one simulation engine
 that also drives the 3D factory.
 
+**Play online:** https://kacperhac890.github.io/kirchhoff-sim/ — every push to `main` runs the tests, builds and redeploys (`.github/workflows/deploy.yml`).
+
 > Training simulation. Plant layout, machine IDs, recipes, suppliers, customers and SAP
 > configuration are invented and are **not** KIRCHHOFF Automotive internal data.
 
